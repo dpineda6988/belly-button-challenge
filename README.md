@@ -4,8 +4,7 @@
 An interactive dashboard built using HTML, Javascript and the D3.js library that explores NC State's Public Science Lab Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
 <strong>Project can also be viewed as a GitHub Page at the following link: <br>
-
-</strong>
+https://dpineda6988.github.io/belly-button-challenge/ </strong>
 
 ## Description
 
